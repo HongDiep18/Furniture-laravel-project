@@ -1,0 +1,10 @@
+.box-preview .img-preview {
+  width: 100%;
+  border: 1px solid rgb(209, 209, 209);
+  padding: 10px;
+  max-width: 200px;
+}
+
+.box-preview {
+  position: relative;
+}
