@@ -1,7 +1,6 @@
 # Furniture Laravel Project
 
 An e-commerce furniture website built with Laravel 10, MySQL, Blade templates, and Vite.
-with readme 3
 
 ## Features
 
